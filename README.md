@@ -18,4 +18,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,discord,bots,au,ps,vscode,wordpress)](https://skillicons.dev)
 
+.My discord
+P.Bazhozi#7813
+.My game server
+https://discord.gg/2vdeFvguaF
+
 </center>
