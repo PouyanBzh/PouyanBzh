@@ -9,13 +9,13 @@
 
 .Programming languages that I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sql,c#,cmd,asp.net,wordpress.jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sql,cs,bash,dotnet,jquery,mysql,powershell)](https://skillicons.dev)
 
 <br>
 
 .The software and platforms I use:
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,phpmyadmin,discord,discordbot,au,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,,discord,bots,au,ps,vscode,wordpress)](https://skillicons.dev)
 
 </center>
