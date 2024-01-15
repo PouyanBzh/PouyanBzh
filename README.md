@@ -9,7 +9,7 @@
 
 .Programming languages that I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,,cs,bash,dotnet,jquery,mysql,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,bash,dotnet,jquery,mysql,powershell)](https://skillicons.dev)
 
 <br>
 
